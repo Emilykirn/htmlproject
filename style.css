@@ -1,0 +1,39 @@
+body {
+  background-color: #e1e0da;
+  font-family: "Spartan", sans-serif;
+}
+i {
+  font-size: small;
+  
+}
+b {
+  font-size: medium;
+}
+
+.container {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.container-2 {
+  /* background-color: blue; */
+ 
+}
+.container-3 {
+  /* background-color: burlywood; */
+  
+}
+footer {
+  /* font-size: medium;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0; */
+}
+th {
+  color: pink;
+  border: 1px black;
+}
